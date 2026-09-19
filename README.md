@@ -45,7 +45,7 @@ pipelines such as **Pixal3D**, Trellis and Hunyuan3D.
 ## 🖼️ Example output
 
 <!-- Place a 2x2 sheet screenshot at docs/images/sheet_example.png -->
-![Character sheet example](docs/images/sheet_example.png)
+![Character sheet example](docs/images/Workflow.png)
 
 ---
 

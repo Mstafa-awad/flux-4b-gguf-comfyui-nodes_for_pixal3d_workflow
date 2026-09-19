@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If this node pack helps your workflow, please cite the repository."
+title: "FLUX.2 Klein 4B GGUF Staged Nodes for ComfyUI"
+type: software
+authors:
+  - family-names: "Awad"
+    given-names: "Mostafa"
+version: 1.0.2
+date-released: 2026-08-29
+license: GPL-3.0-or-later
+repository-code: "https://github.com/Mstafa-awad/flux-4b-gguf-comfyui-nodes_workflow"

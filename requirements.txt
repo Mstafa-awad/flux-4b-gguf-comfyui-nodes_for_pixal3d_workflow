@@ -1,0 +1,2 @@
+# Runtime model loading is supplied by the separately installed ComfyUI-GGUF node pack.
+
